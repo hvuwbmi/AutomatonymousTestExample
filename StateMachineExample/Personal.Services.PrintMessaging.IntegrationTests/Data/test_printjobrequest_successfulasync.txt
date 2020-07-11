@@ -1,0 +1,3 @@
+<FormsEngine.initPrintJobRs status="success">
+  <printJob name="_AutoIDCards" manuscript="Carrier_PersonalPackage_Manual_Base_1_0_0_0" docType="PDF" />
+</FormsEngine.initPrintJobRs>

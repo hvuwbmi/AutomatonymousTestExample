@@ -1,0 +1,5 @@
+<FormsEngine.initPrintJobRs status="success">
+            <printJob name="_AutoIDCards" manuscript="Carrier_PersonalPackage_Manual_Base_1_0_0_0" docType="PDF">
+              <printDoc name="DC2178" value="Carrier_Personal_Auto_MI_Forms_Manual_1_0_0_0" caption="AutoIDCard - MI without TravelNet" paperBinNum="0" category="" printDefault="Selected" topicRef="" pageRef="" order="1" selected="1" systemSelected="1" />
+            </printJob>
+          </FormsEngine.initPrintJobRs>
